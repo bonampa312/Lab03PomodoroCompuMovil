@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">L3G8-Pomodoro</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="closeSure">Are you sure ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
